@@ -1,5 +1,6 @@
 #title {
   background-color: #5385c1;
+  color: white;
 }
 
 .corsit_logo {
@@ -33,4 +34,8 @@
 
 #btn_google {
   margin-left: 12px;
+}
+
+body {
+  font-family: 'Vollkorn', serif;
 }
