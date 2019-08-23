@@ -11,7 +11,7 @@
 
 .corsit_head {
   font-family: 'Vollkorn', serif;
-  font-size: 3rem;
+  font-size: 3.1rem;
   line-height: 1.5;
 }
 
@@ -20,20 +20,23 @@
 }
 
 .r1 {
-  height: 600px;
-  width: 500px;
+  width: 60%;
+}
+
+.nav-item {
+  padding: 0 18px;
 }
 
 #nav_id {
-  padding-bottom: 40px;
+  padding: 0 0 4.5rem;
 }
 
 #btn_apple {
-  margin-right: 12px;
+  margin: 5% 3% 5% 0;
 }
 
 #btn_google {
-  margin-left: 12px;
+  margin: 5% 3% 5% 0;
 }
 
 body {
