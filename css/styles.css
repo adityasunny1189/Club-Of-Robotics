@@ -27,6 +27,26 @@
   padding: 0 18px;
 }
 
+.why-robo {
+  padding: 40px 0 10px 0;
+}
+
+.what-is-robotics {
+  width: 30%;
+  margin: auto;
+}
+
+#robo-but {
+  text-align: center!important;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#features {
+  text-align: center;
+  line-height: 2;
+}
+
 #nav_id {
   padding: 0 0 4.5rem;
 }
