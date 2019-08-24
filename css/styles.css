@@ -37,7 +37,8 @@
 }
 
 .leg-img {
-  width: 30%;
+  width: 176.6px;
+  height: 176.6px;
   border-radius: 100%;
   align-items: center;
 }
@@ -46,6 +47,10 @@
   padding:7% 15%;
   background-color: #5385c1;
   color: white;
+}
+
+.feature-col {
+  text-align: center;
 }
 
 #robo-event {
