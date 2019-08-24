@@ -32,8 +32,23 @@
 }
 
 .what-is-robotics {
-  width: 30%;
+  width: 40%;
   margin: auto;
+}
+
+.leg-img {
+  width: 30%;
+  border-radius: 100%;
+  align-items: center;
+}
+
+.legends {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#robo-event {
+  float: left;
 }
 
 #robo-but {
